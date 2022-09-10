@@ -1,5 +1,5 @@
 Name : Kim YuKyung
 
-School : G
+School : Gachon University
 
 Major : Software
